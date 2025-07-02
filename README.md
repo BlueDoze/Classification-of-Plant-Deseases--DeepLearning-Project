@@ -25,4 +25,11 @@ The main objectives of this project are:
 
 This contributes toward the development of **automated plant disease diagnosis systems**, which can assist farmers and agronomists in real-world scenarios.
 
+> **The full analysis and results are available in**:  
+>  `Pytorch_Project_Report_Pedro_Aguiar.pdf`  
+> **The full implementation (code)** is available in:  
+>  `Pytorch_Project_Pedro_Aguiar.ipynb`
+
+---
+
 ---
