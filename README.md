@@ -15,7 +15,7 @@ The code will be trained with 500 images of each class, resulting in a perfectly
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The main objectives of this project are:
 
